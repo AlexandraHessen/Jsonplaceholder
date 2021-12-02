@@ -2,8 +2,7 @@
 	"posts": [
 		{
 		  "id": 1,
-		  "title": "Post 1",
-		  "name": "name"
+		  "title": "Post 1"
 		},
 		{
 		  "id": 2,
